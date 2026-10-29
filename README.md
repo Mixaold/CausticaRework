@@ -21,7 +21,7 @@
 | Игра | Minecraft **Java 26.2** |
 | Загрузчик | [Fabric Loader](https://fabricmc.net/use/installer/) **0.19.3+** и [Fabric API](https://modrinth.com/mod/fabric-api) |
 | Java | **25** (официальный лаунчер ставит сам) |
-| Видеокарта | **NVIDIA GeForce RTX** со свежим драйвером. Нужна аппаратная трассировка лучей в Vulkan; DLSS — только на RTX. На AMD/Intel не проверялось |
+| Видеокарта | **NVIDIA GeForce RTX 5060 8GB** со свежим драйвером. Нужна аппаратная трассировка лучей в Vulkan; DLSS — только на RTX. На AMD/Intel не проверялось |
 | Система | Windows 10/11 64-бит |
 | Память | выделить игре 6 ГБ (`-Xmx6G`) |
 
