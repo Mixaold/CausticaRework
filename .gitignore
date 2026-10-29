@@ -1,0 +1,8 @@
+caustica-src/
+sdk/
+.gradle-home/
+converted/
+*.jar
+*.zip
+*.log
+__pycache__/
